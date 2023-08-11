@@ -2,6 +2,10 @@
 
 **The Kabaddi Scorekeeper App** is a simple Android application that allows users to track scores for two teams participating in a Kabaddi match. The app provides a user-friendly interface to increment scores for each team and reset the scores when needed.
 
+## Screenshots
+
+<img src="https://github.com/ano-ny-mous/Kabaddi-Score-Keeper-App/assets/91519560/d4ebfd58-9c88-4511-8ca8-5b3b112fca94" alt="Screenshot 1" width="300" >
+
 ## Features
 
 - Keep track of scores for Team A and Team B.
